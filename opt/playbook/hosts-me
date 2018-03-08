@@ -1,0 +1,8 @@
+[servers]
+master0 ansible_ssh_host=185.150.9.6
+[master_nodes]
+node1 ansible_ssh_host=185.150.8.207
+[data_nodes]
+node2 ansible_ssh_host=185.150.10.169
+node3 ansible_ssh_host=185.150.9.188
+
